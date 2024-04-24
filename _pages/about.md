@@ -12,20 +12,11 @@ I am a Robotics Software/Research Engineer at Current Surgical. I am recent grad
 Work Experiences
 ======
 
-<table>
-    <tr>
-        <td valign="center"><img src="https://github.com/APLunch/APLunch.github.io/assets/60408626/4ae82dcc-8eef-413c-b106-1c8860251bc2" width="50"></td>
-        <td valign="center">
-            <h3>Company Name</h3>
-            <p>Robotics Software/Research Engineer</p>
-            <p>June 2023 - Now</p>
-        </td>
-    </tr>
-</table>
+#### Current Surgical | Robotics Software/Research Engineer
+Washington, DC.  June 2023 - Now.
 
-
-
-
+#### Neocis | Robotics Software Engineer Intern
+Miami, FL. May 2022 - Aug 2022.
 
 
 
