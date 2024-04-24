@@ -30,6 +30,8 @@ Johns Hopkins University | M.S. Robotics
 
 Rensselaer Polytechnic Institute | Dual B.S. Computer Science & Electrical Engineering
 :  Aug 2018 - May 2021.
+:  Magna Cum Laude Honor.
+:  Dean's Honor List.
 
 
 Research
