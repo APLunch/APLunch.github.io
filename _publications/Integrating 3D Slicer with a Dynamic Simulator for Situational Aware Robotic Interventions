@@ -1,0 +1,16 @@
+---
+title: "Integrating 3D Slicer with a Dynamic Simulator for Situational Aware Robotic Interventions"
+collection: publications
+permalink: /publication/2009-10-01-paper-title-number-1
+excerpt: 'This is a conference paper for our research on simulator integration with 3D Slicer for situation awareness'
+date: 2024-01-22
+venue: 'IEEE T-MRB(submitted), arXiv'
+paperurl: 'https://arxiv.org/abs/2401.11715'
+citation: 'Hongyi, Fan. (2023). &quot;Integrating 3D Slicer with a Dynamic Simulator for Situational Aware Robotic Interventions. &quot; <i>arXiv.org</i>.'
+---
+
+Image-guided robotic interventions represent a transformative frontier in surgery, blending advanced imaging and robotics for improved precision and outcomes. 
+This paper addresses the critical need for integrating open-source platforms to enhance situational awareness in image-guided robotic research. We present an open-source toolset that seamlessly combines a physics-based 
+constraint formulation framework, AMBF, with a state-of-the-art imaging platform application, 3D Slicer. Our toolset facilitates the creation of highly customizable interactive digital twins, that incorporates processing 
+and visualization of medical imaging, robot kinematics, and scene dynamics for real-time robot control. 
+Through a feasibility study, we showcase real-time synchronization of a physical robotic interventional environment in both 3D Slicer and AMBF, highlighting low-latency updates and improved visualization.
