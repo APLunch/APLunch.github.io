@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This is a workshop paper for my research on AMBF integration with 3D Slicer'
 date: 2023-06-24
+venue: 'Hamlyn Symposium on Medical Robotics 2023'
 paperurl: 'https://www.hamlynsymposium.org/wp-content/uploads/2023/07/HSMR23-Proceedings-Final.pdf'
 citation: 'Hongyi, Fan. (2023). &quot;Integrating a Real-time Surgical Robot Dynamic Simulator with 3D Slicer.&quot; <i>Hamlyn Symposium on Medical Robotics</i>.'
 ---
