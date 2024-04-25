@@ -11,6 +11,8 @@ redirect_from:
 
 ---
 
+You can access a printable CV [here](https://docs.google.com/document/d/1x0Rqem0Wfgx-KZtzRagPCSNe5V8vZFq_0WT10RNQees/edit?usp=sharing).
+
 Education
 ======
 
