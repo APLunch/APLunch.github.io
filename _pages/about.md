@@ -12,7 +12,7 @@ Welcome to my page.
 
 I'm a Robotics Software/Research Engineer at Current Surgical and a recent graduate from Johns Hopkins University's Laboratory for Computational Sensing and Robotics. My research interests span General Robotics, Medical Robotics, Deep Reinforcement Learning, Robot Simulation, and Robot Foundation Models. I'm passionate about advancing robotic technologies and their applications in real-world scenarios. 
 
-I am also a game dev, a soccer play, a cyclist, and a personal trainer. Let's make friends if you share a common hobby! Thanks for visiting!
+I am also a game dev, a soccer player, a cyclist, and a personal trainer. Let's make friends if you share a common hobby! Thanks for visiting!
 
 Work Experiences
 ======
