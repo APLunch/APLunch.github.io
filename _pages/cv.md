@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+---
+
 Education
 ======
 
@@ -20,6 +22,8 @@ Medical Robotics Track
 Aug 2018 - May 2021\
 Magna Cum Laude Honor\
 Dean's Honor List
+
+---
 
 Work experience
 ======
@@ -42,6 +46,7 @@ Baltimore, MD. Oct 2021 - May 2023
 Baltimore, MD. Jan 2022 - Jan 2023
 - Developed motion-planning course material for "Algorithms for Sensor-based Robotics"
 
+---
   
 Skills
 ======
