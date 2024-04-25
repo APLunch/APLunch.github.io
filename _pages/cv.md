@@ -12,12 +12,9 @@ redirect_from:
 Education
 ======
 
-Definition List Title
-:   Definition list division.
-
 ### M.S. Robotics | Johns Hopkins University
 Aug 2021 - May 2023\
-Medical Robotics Track\
+Medical Robotics Track
 
 ### Dual B.S. Computer Science & Electrical Engineering | Rensselaer Polytechnic Institute
 Aug 2018 - May 2021\
@@ -52,13 +49,13 @@ Skills
 C++, Embedded C, Python, C#, Java, MATLAB, TypeScript
 
 ### Software Frameworks, Toolkits & OS
-ROS, ROS2, ZMQ, Linux, Windows
-3D Slicer, VTK, ITK, Qt, Git
-PyTorch ,Stable Baseline 3, OpenCV, Unity ML Agents
+ROS, ROS2, ZMQ, Linux, Windows\
+3D Slicer, VTK, ITK, Qt, Git\
+PyTorch ,Stable Baseline 3, OpenCV, Unity ML Agents\
 Unity, PyBullet, MuJoCo, Gazebo
 
 ### Robotics & AI
-Forward/Inverse Kinematics, Robot System Design, SLAM, Calibration, 3D Multi-view Geometry, Motion Planning, Probabilistic Robotics
+Forward/Inverse Kinematics, Robot System Design, SLAM, Calibration, 3D Multi-view Geometry, Motion Planning, Probabilistic Robotics\
 Computer Vision, Deep Learning, Reinforcement Learning, Controls, Simulation
 
 ### General Engineering
