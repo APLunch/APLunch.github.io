@@ -33,19 +33,39 @@ Robotics Software Engineer Intern | Neocis
 :  Design and implemented optical based calibration algorithm for the company's flagship surgical robot - "Yomi".
 :  Achieved 0.2mm medical grade precision, 50% faster than the existing method.
 
-
 Research Assistant | LCSR Johns Hopkins University 
 :  Baltimore, MD. Oct 2021 - May 2023.
 :  Conducted research on "Robot Dynamic Simulator Integration with 3D Slicer for Situation Aware Robotic Intervention".
+
+Teaching Assistant | John Hopkins University
+:  Baltimore, MD. Jan 2022 - Jan 2023.
+:  Developed motion-planning course material for "Algorithms for Sensor-based Robotics"
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+### Programming Languages
+C++, Embedded C, Python, C#, Java, MATLAB, TypeScript
+
+### Software Frameworks, Toolkits & OS
+ROS, ROS2, ZMQ, Linux, Windows
+
+3D Slicer, VTK, ITK, Qt, Git
+
+PyTorch ,Stable Baseline 3, OpenCV, Unity ML Agents
+
+Unity, PyBullet, MuJoCo, Gazebo
+
+### Robotics & AI
+F/I Kinematics, Robot System Design, SLAM ,Calibration , 3D Multi-view Geometry, Motion Planning, Simulation
+
+Computer Vision, Deep Learning, Reinforcement Learning, Controls
+
+### General Engineering
+Embedded Systems (STM32, RPi, C8051), SolidWorks
+
+
+
 
 Publications
 ======
@@ -53,18 +73,5 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
