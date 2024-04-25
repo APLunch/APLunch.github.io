@@ -14,11 +14,11 @@ redirect_from:
 Education
 ======
 
-### M.S. Robotics | Johns Hopkins University
+**M.S. Robotics | Johns Hopkins University**\
 Aug 2021 - May 2023\
 Medical Robotics Track
 
-### Dual B.S. Computer Science & Electrical Engineering | Rensselaer Polytechnic Institute
+**Dual B.S. Computer Science & Electrical Engineering | Rensselaer Polytechnic Institute**\
 Aug 2018 - May 2021\
 Magna Cum Laude Honor\
 Dean's Honor List
@@ -67,7 +67,7 @@ Computer Vision, Deep Learning, Reinforcement Learning, Controls, Simulation
 Embedded Systems (STM32, RPi, C8051), SolidWorks
 
 
-
+---
 
 Publications
 ======
