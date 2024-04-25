@@ -11,26 +11,32 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+M.S. Robotics | Johns Hopkins University
+:  Aug 2021 - May 2023
+:  Medical Robotics Track
+
+Dual B.S. Computer Science & Electrical Engineering | Rensselaer Polytechnic Institute
+:  Aug 2018 - May 2021
+:  Magna Cum Laude Honor
+:  Dean's Honor List
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+Robotics Software/Research Engineer | Current Surgical
+:  Washington, DC.  June 2023 - Now.
+:  Design and implemented surgical navigation software, featuring real time tool tracking and medical context visualization.
+:  Implemented APIs and algorithms for automated camera system, featuring auto camera calibration, color correction and image acquisition.
+:  Research and developed Deep-Learning based 3D medical image alignment, achieving state-of-the-art performance.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Robotics Software Engineer Intern | Neocis
+:  Miami, FL. May 2022 - Aug 2022.
+:  Design and implemented optical based calibration algorithm for the company's flagship surgical robot - "Yomi".
+:  Achieved 0.2mm medical grade precision, 50% faster than the existing method.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+
+Research Assistant | LCSR Johns Hopkins University 
+:  Baltimore, MD. Oct 2021 - May 2023.
+:  Conducted research on "Robot Dynamic Simulator Integration with 3D Slicer for Situation Aware Robotic Intervention".
   
 Skills
 ======
