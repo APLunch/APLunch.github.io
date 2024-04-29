@@ -20,11 +20,11 @@ Work Experiences
 Robotics Software/Research Engineer | Current Surgical
 :  Washington, DC.  June 2023 - Now.
 
-<img align="right" width="50" height="50" src="images/neocis_logo.png">
+<img align="right" width="50" height="50" src="images/neocis_logo.jpg">
 Robotics Software Engineer Intern | Neocis
 :  Miami, FL. May 2022 - Aug 2022.
 
-<img align="right" width="50" height="50" src="images/lcsr_logo.png">
+<img align="right" width="50" height="50" src="images/lcsr_logo.jpg">
 Research Assistant | LCSR Johns Hopkins University 
 :  Baltimore, MD. Oct 2021 - May 2023.
 
