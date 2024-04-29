@@ -4,6 +4,8 @@ excerpt: "A surgical navigation system + software featuring real-time surgical t
 collection: portfolio
 ---
 
+<img src='/images/portflio_img_image_guided_ablation_nav_system.jpg' width=800>
+
 ## Objective
 This project focuses on creating demonstration software for a novel liver cancer ablation device, designed to optimize procedural workflow. The software features sophisticated visual representation of the patient's liver anatomy from CT scans, emphasizing the identification of cancerous lesions. A key component is the integration of a custom communication interface for the electromagnetic (EM) tracking system, which precisely tracks the medical tool in real-time, displaying its pose with six degrees of freedom (6DOF) for detailed movements and functionalities. The software aims to highlight the benefits of this innovative tool and approach, surpassing traditional liver cancer treatments, all through a visually compelling and intuitive interface.
 
