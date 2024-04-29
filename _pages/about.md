@@ -16,13 +16,15 @@ I am also a game dev, a soccer player, a cyclist, and a personal trainer. Let's 
 
 Work Experiences
 ======
-
+<img align="right" width="50" height="50" src="images/current_surgical_logo.png">
 Robotics Software/Research Engineer | Current Surgical
 :  Washington, DC.  June 2023 - Now.
 
+<img align="right" width="50" height="50" src="images/neocis_logo.png">
 Robotics Software Engineer Intern | Neocis
 :  Miami, FL. May 2022 - Aug 2022.
 
+<img align="right" width="50" height="50" src="images/lcsr_logo.png">
 Research Assistant | LCSR Johns Hopkins University 
 :  Baltimore, MD. Oct 2021 - May 2023.
 
