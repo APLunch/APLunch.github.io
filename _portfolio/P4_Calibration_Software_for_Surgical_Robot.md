@@ -1,6 +1,6 @@
 ---
 title: "Calibration Software for Surgical Robot Using Optical Tracking Device"
-excerpt: "A calibration algorithm and software for the flagship surgical robot system of Neocis - Yomi. <br/><img src='/images/portflio_img_Calibration_Software.jpg' width=500>"
+excerpt: "A calibration algorithm and software for the flagship surgical robot system of Neocis - Yomi. <br/><img src='/images/portflio_img_Calibration Software for Surgical Robot Using Optical Tracking Device.jpg' width=500>"
 collection: portfolio
 ---
 
