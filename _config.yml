@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Hongyi 'Mike' Fan" 
+title                    : "Hongyi (Mike) Fan's Profile" 
 title_separator          : "-"
-name                     : &name "Hongyi 'Mike' Fan"
+name                     : &name "Hongyi (Mike) Fan"
 description              : &description "Robotics Software/Research Engineer"
 url                      : https://APLunch.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "APLunch/APLunch.github.io"
 author:
   # Biographic information
   avatar           : "headshot.jpeg"
-  name             : "Hongyi 'Mike' Fan"
+  name             : "Hongyi (Mike) Fan"
   pronouns         : # example: "she/her"  
   bio              : "Robotics Software/Research Engineer"
   location         : "USA"
