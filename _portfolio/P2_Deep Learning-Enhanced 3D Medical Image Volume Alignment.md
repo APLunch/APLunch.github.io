@@ -1,6 +1,6 @@
 ---
 title: "Deep Learning-Enhanced 3D Medical Image Volume Alignment"
-excerpt: "CNN based 3D medical image volume alignment <br/><img src='/images/portflio_img_Deep Learning-Enhanced 3D Medical Image Volume Alignment.jpg' width=500>"
+excerpt: "CNN based 3D medical image volume alignment. <br/><img src='/images/portflio_img_Deep Learning-Enhanced 3D Medical Image Volume Alignment.jpg' width=500>"
 collection: portfolio
 ---
 
