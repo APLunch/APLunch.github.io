@@ -30,11 +30,12 @@ Research Assistant | LCSR Johns Hopkins University
 Education
 ======
 
-<img align="left" width="70" height="70" src="https://brand.jhu.edu/assets/uploads/sites/5/2014/06/university.shield.small_.blue_.png">
+<img align="left" width="50" height="50" src="images/jhu_logo.png">
 M.S. Robotics | Johns Hopkins University
 :  Aug 2021 - May 2023
 :  Medical Robotics Track
 
+<img align="left" width="50" height="50" src="images/Rensselaer_logo.svg.png">
 Dual B.S. Computer Science & Electrical Engineering | Rensselaer Polytechnic Institute
 :  Aug 2018 - May 2021
 :  Magna Cum Laude Honor
