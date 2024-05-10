@@ -7,14 +7,11 @@ collection: portfolio
 <img src='/images/portflio_img_Kitchen Chaos_Video Game.jpg' width=800>
 
 ## Objective
-Accurate and precise calibration is critical to surgical robots. The “Yomi” dental surgical robot uses a 7-joint un-actuated mechanical arm to track the patient’s posture. The existing calibration procedure is tiring and highly operator-dependent. The goal of this project is to utilize an optical tracking device and implement a novel calibration method that is faster and less operator-dependent, without losing accuracy or precision.
+The primary goal of the "Kitchen Chaos" project is to develop a streamlined version of the acclaimed video game "Overcooked" utilizing the Unity 3D engine. This endeavor is designed to refine and enhance my technical proficiency in Unity 3D development, with a particular focus on understanding and applying Unity's advanced features and updates. Through this project, I aim to deepen my expertise in game development within Unity 3D, leveraging public domain game assets to create an engaging and functional game prototype.
 
 ## Technical Summary
-Designed and manufactured passive optical marker(s); developed the mathematical model for arm calibration; designed the calibration procedure; implemented the software that communicates with the camera and the robot; implemented the data-processing algorithm, rigid body registration algorithm, result validation algorithm, and the optimization algorithm for the kinematic parameters of the arm; composed utility tool that monitors joint-space coverage in real-time; 
+The "Kitchen Chaos" project incorporates essential Unity 3D tools and C# features to achieve its development goals, including Animation, Cinemachine, World Canvas, the Unity Input System, collision detection, and shaders. It also utilizes advanced programming concepts such as C# Events, the Singleton pattern, Scriptable Objects, and C# interfaces to enhance game functionality and design efficiency. The game asset is publicly available.
 
 ## Results
-The novel calibration method satisfies the precision and accuracy requirement and is significantly faster and less operator dependent than the existing method. RMS error ~0.2mm. The new method is being considered to replace the existing one.
-
-## Documentation
-Detailed doc on this project can be found [here](https://drive.google.com/file/d/1EikctVXcqvsu3czSvyd3YQvjRYa7EW_7/view?usp=sharing).
+The "Kitchen Chaos" project resulted in a simplified yet engaging version of a game inspired by "Overcooked", utilizing Unity 3D. Key Unity tools and C# features were effectively employed to ensure responsive gameplay and visual appeal. This prototype demonstrates the practical application of Unity development skills and programming concepts, showcasing a solid foundation in game design and development within the Unity environment.
 
