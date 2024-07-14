@@ -6,7 +6,7 @@ excerpt: 'This is a conference paper for our research on simulator integration w
 date: 2024-01-22
 venue: 'IEEE T-MRB(submitted), arXiv'
 paperurl: 'https://arxiv.org/abs/2401.11715'
-citation: 'Hongyi, Fan. (2023). &quot;Integrating 3D Slicer with a Dynamic Simulator for Situational Aware Robotic Interventions. &quot; <i>arXiv.org</i>.'
+citation: 'Manish Sahu et al. (2023). &quot;Integrating 3D Slicer with a Dynamic Simulator for Situational Aware Robotic Interventions. &quot; <i>arXiv.org</i>.'
 ---
 
 Image-guided robotic interventions represent a transformative frontier in surgery, blending advanced imaging and robotics for improved precision and outcomes. 
