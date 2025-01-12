@@ -1,0 +1,13 @@
+---
+title: "ENTRI: Enhanced Navigational Toolkit for Robotic Interventions"
+collection: publications
+permalink: /publication/2009-10-01-paper-title-number-1
+excerpt: 'This is a workshop paper for my research on AMBF integration with 3D Slicer'
+date: 2024-10-14
+venue: 'IEEE Transactions on Medical Robotics and Bionics'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/10716246'
+citation: 'M. Sahu et al., "ENTRI: Enhanced Navigational Toolkit for Robotic Interventions," in IEEE Transactions on Medical Robotics and Bionics, vol. 6, no. 4, pp. 1405-1408, Nov. 2024, doi: 10.1109/TMRB.2024.3475827.'
+---
+
+
+Image-guided robotic interventions represent a transformative frontier in surgery, blending advanced imaging and robotics for improved precision and outcomes. This paper addresses the critical need for integrating open-source platforms to enhance situational awareness in image-guided robotic research. We present an open-source toolkit, named ENTRI, that seamlessly combines a physics-based constraint formulation framework, AMBF, with a state-of-the-art imaging platform application, 3D Slicer. ENTRI facilitates the creation of highly customizable interactive digital twins, that incorporate processing and visualization of medical imaging, robot kinematics, and scene dynamics for real-time robot control. Through a feasibility study, we showcase real-time synchronization of a physical robotic interventional environment in both 3D Slicer and AMBF, highlighting low-latency updates and improved visualization. 
