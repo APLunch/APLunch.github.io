@@ -29,8 +29,18 @@ Dean's Honor List
 
 Work experience
 ======
+### Robotics Software Engineer - Perception | Anyware Robotics
+Fremont, CA.  Aug 2024 - Now
+- Lead developer of the multi-camera sensing system for the flagship Pixmo robot, ensuring high-resolution, real-time environmental perception.
+- Implemented a real-time flow-out monitoring system that increased robot throughput by 12%, enhancing overall efficiency.
+- Designed and deployed a robust perception failure detection pipeline, safeguarding operational safety and reliability.
+- Developed and integrated temporal and spatial sensor fusion techniques, providing enhanced situational awareness for dynamic environments.
+- Optimized robot task control systems, significantly improving perception reliability and operational consistency.
+- Sole owner of the robot localization and movement module, ensuring precise positioning and smooth navigation within complex workspaces.
+
+
 ### Robotics Software/Research Engineer | Current Surgical
-Washington, DC.  June 2023 - Now
+Washington, DC.  June 2023 - Aug 2024
 - Design and implemented surgical navigation software, featuring real time tool tracking and medical context visualization.
 - Implemented APIs and algorithms for automated camera system, featuring auto camera calibration, color correction and image acquisition.
 - Research and developed Deep-Learning based 3D medical image alignment, achieving state-of-the-art performance.
@@ -56,7 +66,7 @@ Skills
 C++, Embedded C, Python, C#, Java, MATLAB, TypeScript
 
 ### Software Frameworks, Toolkits & OS
-ROS, ROS2, ZMQ, Linux, Windows\
+ROS, Behavior Tree, Linux, Windows\
 3D Slicer, VTK, ITK, Qt, Git\
 PyTorch ,Stable Baseline 3, OpenCV, Unity ML Agents\
 Unity, PyBullet, MuJoCo, Gazebo
