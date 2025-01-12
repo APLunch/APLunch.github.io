@@ -16,7 +16,7 @@ I am also a game dev, a soccer player, a cyclist, and a personal trainer. Let's 
 
 Work Experiences
 ======
-<img align="right" width="50" height="50" src="images/anyware_robotics_logo.jpg">
+<img align="right" width="50" height="50" src="images/anyware_robotics_logo.png">
 Robotics Software Engineer - Perception | Anyware Robotics
 :  Fremont, CA.  Aug 2024 - Now.
 
