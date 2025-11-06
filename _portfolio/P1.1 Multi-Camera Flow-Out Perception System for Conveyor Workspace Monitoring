@@ -1,0 +1,40 @@
+---
+title: "Multi-Camera Flow-Out Perception System for Conveyor Workspace Monitoring"
+excerpt: "A production-grade multi-camera perception system enabling safe, high-throughput unloading operations. <br/><img src='/images/flowout_rviz.gif' width=500>"
+collection: portfolio
+---
+<img src='/images/flowout_cameras.png' width=800>
+
+<img src='/images/flowout_rviz.gif' width=800>
+
+<img src='/images/flowout_dashcam.gif' width=400>
+
+
+
+## Objective
+Pixmo, Anyware Robotics’ autonomous unloading robot, uses a conveyor-based accessory system to handle a wide variety of packages. However, limited perception over the conveyor region previously forced conservative motion planning, reducing speed and risking collision with boxes and hardware.  
+The objective of this project was to develop a robust, real-time multi-camera perception system that continuously monitors the conveyor workspace, enabling faster picking, automated failure detection, and safe collision-free operation.
+
+## Technical Summary
+This system uses two high-resolution RGB-D cameras rigidly mounted around the conveyor accessory. I developed a precise multi-camera calibration pipeline to align all depth and color data into the robot base frame for consistent, metric spatial reasoning.
+
+On top of the fused scene geometry, I designed and implemented real-time perception logic to:
+- Detect picking success and classify failure modes via point-cloud differencing and motion cues.
+- Track box position and orientation on the conveyor.
+- Continuously estimate clearance between the robot arm and surrounding objects to prevent collisions.
+- Provide both high-level pick state and low-level spatial constraints to the robot motion controller.
+
+The system operates at real-time rates and is fully integrated into Pixmo’s core perception-planning loop.
+
+## Results
+The system has been deployed to all active commercial customer sites and operates continuously in production:
+
+- **Zero** robot-to-box collisions on the conveyor accessory system since deployment.
+- **Increased unloading throughput** due to reduced motion conservatism.
+- **Reliable autonomous failure detection**, reducing operator intervention and downtime.
+
+This perception system is now a core safety and performance component of Pixmo’s commercial product.
+
+## Detailed Documentation
+
+*Restricted by non-disclosure agreements.*
