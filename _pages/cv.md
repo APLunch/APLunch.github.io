@@ -29,14 +29,17 @@ Dean's Honor List
 
 Work experience
 ======
-### Robotics Software Engineer - Perception | Anyware Robotics
-Fremont, CA.  Aug 2024 - Now
-- Lead developer of the multi-camera sensing system for the flagship Pixmo robot, ensuring high-resolution, real-time environmental perception.
-- Implemented a real-time flow-out monitoring system that increased robot throughput by 12%, enhancing overall efficiency.
-- Designed and deployed a robust perception failure detection pipeline, safeguarding operational safety and reliability.
-- Developed and integrated temporal and spatial sensor fusion techniques, providing enhanced situational awareness for dynamic environments.
-- Optimized robot task control systems, significantly improving perception reliability and operational consistency.
-- Sole owner of the robot localization and movement module, ensuring precise positioning and smooth navigation within complex workspaces.
+### Robotics Software Engineer — Perception | Anyware Robotics
+Fremont, CA · Aug 2024 – Present
+
+- Lead engineer for Pixmo’s multi-camera perception stack, delivering real-time high-resolution spatial awareness for reliable autonomous operation.
+- Architect and primary developer of the full sensor calibration pipeline (multi-camera, hand–eye, depth alignment), enabling automated, repeatable high-precision extrinsic calibration across deployments.
+- Developed and deployed the real-time flow-out monitoring system, improving unloading throughput by **~12%** and eliminating conveyor collision risk across production sites.
+- Owner of Pixmo’s localization and motion reference modules, ensuring accurate robot framing, workspace awareness, and stable operational behavior in dynamic environments.
+- Driving research and prototyping of SOTA RL-based mixed palletizing strategies to inform the company’s next-generation product roadmap.
+- Improved perception robustness and task control reliability through algorithmic optimization, distributed monitoring, and production-grade system integration.
+
+
 
 
 ### Robotics Software/Research Engineer | Current Surgical
