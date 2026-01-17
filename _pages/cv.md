@@ -29,8 +29,8 @@ Dean's Honor List
 
 Work experience
 ======
-### Robotics Software Engineer — Perception | Anyware Robotics
-Fremont, CA · Aug 2024 – Present
+### Sr. Robotics Software Engineer, Robotics Software Engineer — Perception | Anyware Robotics
+Fremont, CA · Aug 2024 – Now
 
 - Lead engineer for Pixmo’s multi-camera perception stack, delivering real-time high-resolution spatial awareness for reliable autonomous operation.
 - Architect and primary developer of the full sensor calibration pipeline (multi-camera, hand–eye, depth alignment), enabling automated, repeatable high-precision extrinsic calibration across deployments.
