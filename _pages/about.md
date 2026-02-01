@@ -18,7 +18,7 @@ Work Experiences
 ======
 <img align="right" width="50" height="50" src="images/origami_robotics_logo.jpg">
 Co-founder & Engineer | Origami Robotics
-:  TBD.  Feb 2026 - Now.
+:  Feb 2026 - Now.
 
 <img align="right" width="50" height="50" src="images/anyware_robotics_logo.png">
 Senior Software Engineer - Perception | Anyware Robotics
