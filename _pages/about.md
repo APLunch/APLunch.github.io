@@ -10,12 +10,16 @@ redirect_from:
 
 Welcome to my page. 
 
-I'm a Senior Software Engineer - Perception at Anyware Robotics and a recent graduate from Johns Hopkins University's Laboratory for Computational Sensing and Robotics. My research interests span Robot Perception, Medical Robotics, Deep Reinforcement Learning, Robot Simulation, and Robot Foundation Models. I'm passionate about advancing robotic technologies and their applications in real-world scenarios. 
+I'm a Co-founder & Engineer at Origami Robotics and a Senior Software Engineer - Perception at Anyware Robotics, and a recent graduate from Johns Hopkins University's Laboratory for Computational Sensing and Robotics. My research interests span Robot Perception, Medical Robotics, Deep Reinforcement Learning, Robot Simulation, and Robot Foundation Models. I'm passionate about advancing robotic technologies and their applications in real-world scenarios. 
 
 I am also a game dev, a soccer player, a cyclist, and a personal trainer. Let's make friends if you share a common hobby! Thanks for visiting!
 
 Work Experiences
 ======
+<img align="right" width="50" height="50" src="images/origami_robotics_logo.jpg">
+Co-founder & Engineer | Origami Robotics
+:  Feb 2026 - Now.
+
 <img align="right" width="50" height="50" src="images/anyware_robotics_logo.png">
 Senior Software Engineer - Perception | Anyware Robotics
 :  Fremont, CA.  Dec 2025 - Now.
